@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/marziebakhtiari/marzie)
 - [آدرس رزومه](https://marziebakhtiari.github.io/marzie/)
-- [SOP]()
+- [SOP](https://github.com/marziebakhtiari/SOP)
 - [certificate](https://www.sololearn.com/Certificate/1024-20485274/pdf/)
 -------------------
 ## گروه ها
